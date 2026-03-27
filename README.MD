@@ -1,5 +1,8 @@
 # 📊 Análisis de Acciones con Python
+## 📸 Ejemplo de resultados
 
+![Precios](gráficos/precios.png)
+![Retornos](gráficos/retornos.png)
 Proyecto básico de análisis financiero usando Python.
 
 ## ▶️ Cómo usar
